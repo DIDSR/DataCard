@@ -1,20 +1,22 @@
 # DataCard
 Regulatory Science Tool for Evaluating and Reporting the Quality of Patient Datasets
 
-> [!NOTE]
-> **This code is work-in-progress.**
-
 ## Overview
 
-Datacard examines submitted images for artifacts and provides a scorecard with descriptive and quantitative measures of dataset quality including image quality, metadata, and annotation quality for both mammography and histopathology whole slide images.
+DataCard examines submitted images for artifacts and provides a scorecard with descriptive and quantitative measures of dataset quality including image quality, metadata, and annotation quality for both mammography and histopathology whole slide images.
 
-![DataCard Output](./imgs/DataCardOutput.png)
+<p align="center">
+  <img src="./imgs/DataCardOutput.png" alt="DataCard Output"/>
+</p>
 
 
 ## DataCard Generation
 
-An outline of Datacard pipeline is given below.
-![DataCard Pipeline](./imgs/DataCardGeneration.png)
+An outline of the DataCard pipeline is given below. Patient data from the provider, along with metadata and dataset information, is processed by data quality modules across several dimensions to produce the various output components of the DataCard including visualizations and reports. 
+
+<p align="center">
+  <img src="./imgs/DataCardGeneration.png" alt="DataCard Pipeline"/>
+</p>
 
 
 ## DataCard Dimensions
@@ -31,6 +33,7 @@ There are 4 main dimensions in the DataCard
 
 Individual tools developed to assess patient datasets across different dimensions and produce the various components of the DataCard are outlined below:
 
+---
 ### Correctness Assessment
 
 #### Digital Pathology
@@ -39,11 +42,14 @@ Individual tools developed to assess patient datasets across different dimension
 
 Repository link: [HistoART](https://github.com/DIDSR/HistoART)
 
+
 #### Digital Mammography
 
 [**`Correctness DM`**](https://github.com/DIDSR/Correctness_DM) is an in-development Python-based toolkit designed to automatically identify common image quality issues and artifacts in Digital Mammography images.
 
 Repository link: [Correctness DM](https://github.com/DIDSR/Correctness_DM)
+
+---
 
 ### Completeness, Coverage, and Consistency Assessment
 
@@ -54,6 +60,8 @@ Repository link: [DataCard-Metadata](https://github.com/DIDSR/DataCard-Metadata/
 An outline of the metadata assessment pipeline is given below.
 
 ![Metadata Assessment Pipeline](https://github.com/DIDSR/DataCard-Metadata/blob/main/images/DCard_Metadata_Pipelines.png)
+
+---
 
 ## How to Cite
 
@@ -70,6 +78,7 @@ If you utilize DataCard in your research or applications, please cite the reposi
 }
 ```
 
+---
 
 ## Files and Data
 
