@@ -87,11 +87,11 @@ All code and data files required for this project, along with instructions to ac
 
 ## Contact and Contributions
 
-**Project Lead**: Seyed Kahaki: [seyed.kahaki@fda.hhs.gov](seyed.kahaki@fda.hhs.gov)
+Seyed Kahaki: [seyed.kahaki@fda.hhs.gov](seyed.kahaki@fda.hhs.gov)
 
-**HistoART**: Alexander Webber: [alexander.webber@fda.hhs.gov](alexander.webber@fda.hhs.gov)
+Alexander Webber: [alexander.webber@fda.hhs.gov](alexander.webber@fda.hhs.gov)
 
-**DataCard-Metadata**: Tahsin Rahman: [tahsin.rahman@fda.hhs.gov](tahsin.rahman@fda.hhs.gov)
+Tahsin Rahman: [tahsin.rahman@fda.hhs.gov](tahsin.rahman@fda.hhs.gov)
 
 ## Acknowledgements
 
