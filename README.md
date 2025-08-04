@@ -46,7 +46,7 @@ Repository link: [HistoART](https://github.com/DIDSR/HistoART)
 
 #### Digital Mammography
 
-[**`Correctness DM`**](https://github.com/DIDSR/Correctness_DM) is an in-development Python-based toolkit designed to automatically identify common image quality issues and artifacts in Digital Mammography images.
+[**`Correctness DM`**](https://github.com/DIDSR/Correctness_DM) is an in-development Python-based toolkit designed to automatically identify common image quality issues and artifacts in Digital Mammography images. This code will be available once development is completed. 
 
 Repository link: [Correctness DM](https://github.com/DIDSR/Correctness_DM)
 
