@@ -1,5 +1,5 @@
 # DataCard
-Autonomous Evaluation of WSI and Radiology Image Quality, 
+Autonomous Evaluation of Whole Slide Imaging (WSI) and Radiology Imaging Dataset Quality, 
 a suite of software tools for comprehensive dataset evaluation and summarization with respect to correctness, completeness, coverage, and consistency
 
 ## Overview
