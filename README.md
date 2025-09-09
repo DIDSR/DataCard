@@ -89,8 +89,6 @@ All code and data files required for this project, along with instructions to ac
 
 Seyed Kahaki: [seyed.kahaki@fda.hhs.gov](seyed.kahaki@fda.hhs.gov)
 
-Alexander Webber: [alexander.webber@fda.hhs.gov](alexander.webber@fda.hhs.gov)
-
 Tahsin Rahman: [tahsin.rahman@fda.hhs.gov](tahsin.rahman@fda.hhs.gov)
 
 ## Acknowledgements
