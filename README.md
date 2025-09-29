@@ -54,13 +54,13 @@ Repository link: [Correctness DM](https://github.com/DIDSR/Correctness_DM)
 
 ### Completeness, Coverage, and Consistency Assessment
 
-[**`DataCard-Metadata`**](https://github.com/DIDSR/DataCard-Metadata/) is a comprehensive tool for assessing the **Completeness**, **Coverage**, and **Consistency** of the metadata in patient datasets. The tool produces metadata features from patient metadata information as well as visualizations of available and missing data fields and distributions of values within individual fields.
+[**`M3C`**](https://github.com/DIDSR/M3C/) is a comprehensive tool for assessing the **Completeness**, **Coverage**, and **Consistency** of the metadata in patient datasets. The tool produces metadata features from patient metadata information as well as visualizations of available and missing data fields and distributions of values within individual fields.
 
-Repository link: [DataCard-Metadata](https://github.com/DIDSR/DataCard-Metadata/)
+Repository link: [M3C](https://github.com/DIDSR/M3C/)
 
 An outline of the metadata assessment pipeline is given below.
 
-![Metadata Assessment Pipeline](https://github.com/DIDSR/DataCard-Metadata/blob/main/images/DCard_Metadata_Pipelines.png)
+![Metadata Assessment Pipeline](https://github.com/DIDSR/M3C/blob/main/images/DCard_Metadata_Pipelines.png)
 
 ---
 
